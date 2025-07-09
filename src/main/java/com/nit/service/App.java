@@ -12,6 +12,6 @@ public class App
     }
 	
 	public void m1(){
-		System.out.println("Test java");
+		System.out.println("Test java new");
 	}
 }
